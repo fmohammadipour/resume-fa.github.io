@@ -32,14 +32,14 @@ sidebar:
       - idiom: فارسی
         level: زبان مادری
 
-      - idiom: English
-        level: Fluent
+      - idiom: انگلیسی
+        level: تسلط کامل
 
-      - idiom: German
-        level: Colloquial
+      - idiom: آلمانی
+        level: تعاملات روزمره
        
-      - idiom: Turkish
-        level: Colloquial
+      - idiom: ترکی
+        level: تعاملات روزمره
 
     #interests:
     #  - item: Guitar
@@ -52,14 +52,14 @@ sidebar:
 #        link:
 
 career-profile:
-    title: عنوان تستی
+    title: درباره من
     summary: |
      متن تستی
      
      also you can check me out on quera : https://quera.ir/profile/faribampr
       
 news:
-   title: Courses
+   title: دوره های گذرانده شده توسط من
    intro: |
         
     
@@ -95,20 +95,20 @@ news:
          title: CCNA       
 
 education:
-    - degree: Master Degree - software engineering
-      university: Payam Noor University, Tehran, Iran
-      time: 2019 - current
+    - degree: کارشناسی ارشد - مهندسی نرم افزار
+      university: پیام نور تهران شمال
+      time: در حال تحصیل
       details: |
      
-    - degree: Bachelor Degree - Computer Science
-      university: Shahid Beheshti University, Tehran, Iran
-      time: 2011 - 2015
+    - degree: کارشناسی- علوم کامپیوتر
+      university: شهید بهشتی
+      time: 1390 الی 1394
       details: |
 
 experiences:
-    - role: Information technology specialist
-      time: 2011 - Present
-      company: Ramin Ertebat, Tehran, Iran
+    - role: کارشناس فناوری اطلاعات و شبکه های کامپیوتری
+      time: 1391 تا کنون
+      company: شرکت رامین ارتباط
       #details: |
         #Describe your role here lorem ipsum dolor sit amet, consectetuer
         #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -122,8 +122,8 @@ experiences:
 
           #- Bullet point
           #- Bullet point
-    - role: Technical Support
-      time: 2014 - 2019
+    - role: مدیر فناوری اطلاعات
+      time: 1395 الی 1399
       company: Rayancollege institute, Tehran, Iran
       #details: |
         #Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -135,9 +135,9 @@ experiences:
           #- Bullet point
           #- Bullet point
           
-    - role: CEO
-      time: 2020 - Present
-      company: Rayancollege institute, Tehran, Iran
+    - role: مدیرعامل
+      time: 1399 تا کنون
+      company: آموزشگاه رایان کالج
       #details: |
         #Describe your role here lorem ipsum dolor sit amet, consectetuer
         #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
