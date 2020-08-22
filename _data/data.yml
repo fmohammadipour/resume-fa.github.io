@@ -54,9 +54,9 @@ sidebar:
 career-profile:
     title: درباره من
     summary: |
-     متن تستی
-     
-     also you can check me out on quera : https://quera.ir/profile/faribampr
+     علاقه مند به کشف و یادگیری بوده و اصلیترین علاقه من دنیای کامپیوتر و شبکه های کامپیوتری می باشد. 
+     علوم کامپیوتر خوانده و از ابتدای دوران دانشجویی در زمینه شبکه های کامپیوتری مشغول به کار هستم
+     پروفایل من را در کوئرا ببینید : https://quera.ir/profile/faribampr
       
 news:
    title: دوره های گذرانده شده توسط من
@@ -64,50 +64,50 @@ news:
         
     
    posts:
-       - time: 2012
+       - time: 1390
          title: Network+
          
-       - time: 2013
+       - time: 1391
          title: LPIC1
         
-       - time: 2014
+       - time: 1392
          title: SQL Server Design and Administration
           
-       - time: 2015
+       - time: 1394
          title: Microsoft Exchange 2013
           
-       - time: 2015
+       - time: 1394
          title: Lync Server 2013
           
-       - time: 2015
+       - time: 1394
          title: Kerio Control
           
-       - time: 2019
+       - time: 1397
          title: Microsoft Exchange 2019         
           
-       - time: 2019
+       - time: 1397
          title: Microsoft Skype For Business 2019
          
-       - time: 2019
+       - time: 1397
          title: Microsoft Private Cloud ( Azure )        
          
-       - time: 2019
+       - time: 1397
          title: CCNA       
 
 education:
     - degree: کارشناسی ارشد - مهندسی نرم افزار
       university: پیام نور تهران شمال
-      time: در حال تحصیل
+      time: 
       details: |
      
     - degree: کارشناسی- علوم کامپیوتر
-      university: شهید بهشتی
-      time: 1390 الی 1394
+      university:  دانشگاه شهید بهشتی
+      time: 
       details: |
 
 experiences:
     - role: کارشناس فناوری اطلاعات و شبکه های کامپیوتری
-      time: 1391 تا کنون
+      time: 
       company: شرکت رامین ارتباط
       #details: |
         #Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -124,7 +124,7 @@ experiences:
           #- Bullet point
     - role: مدیر فناوری اطلاعات
       time: 
-      company: Rayancollege institute, Tehran, Iran
+      company: آموزشگاه رایان کالج
       #details: |
         #Describe your role here lorem ipsum dolor sit amet, consectetuer
         #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -135,8 +135,8 @@ experiences:
           #- Bullet point
           #- Bullet point
           
-    - role: مدیرعامل
-      time: 1399 تا کنون
+    - role: مدیرعامل از ابتدای سال 1399
+      time: 
       company: آموزشگاه رایان کالج
       #details: |
         #Describe your role here lorem ipsum dolor sit amet, consectetuer
